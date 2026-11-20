@@ -3,7 +3,7 @@
 > **Research / educational decision-support prototype. Not production-ready.** Predictions must never be used to
 > punish students, deny opportunities, label students automatically, or make final decisions without human review.
 
-## ⚠️ Synthetic / development-data warning (read first)
+##  Synthetic / development-data warning (read first)
 
 The real UCI dataset was **not available** while this project was built (the build sandbox could not reach it).
 Everything in `reports/`, `models/best_model.joblib` and the demo students in the app was produced from a
